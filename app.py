@@ -61,7 +61,7 @@ st.title("Stock Portfolio Analysis")
 
 # Dropdown for selecting stock
 stock_files = {
-    "NVDA": "./data/month/multiple_models_Mnthprediction_NVDA (1).csv",
+    "NVDA": "./data/multiple_models_Mnthprediction_NVDA (1).csv",
     "AAPL": "./data/month/multiple_models_Mnthprediction_AAPL.csv",
     "MSFT": "./data/month/multiple_models_Mnthprediction_MSFT.csv"
 }
